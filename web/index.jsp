@@ -27,7 +27,7 @@
 %>
 <table>
     <tr>
-        <th colspan="4">LisCustomers</th>
+        <th colspan="4">ListCustomers</th>
     </tr>
     <tr>
         <td>Name</td>
